@@ -1,4 +1,4 @@
-# crash-qcomipclog
+# crash-qcom-ipclog
 This is a crash utility extension module to parse qcom ipc logs.
 To use this module, the `qcom_ipc_logging.ko` must be prepared.
 
